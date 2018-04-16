@@ -13,3 +13,6 @@ var chocolateBars = [
     return [...array, element]
   }
   
+  function addElementToBeginningOfArray(array,element){
+    array.push
+  }
