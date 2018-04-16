@@ -19,7 +19,7 @@ var chocolateBars = [
     return [...array, element]
   }
   
-  function destructivelyAddElementToBeginningOfArray(array,element){
+  function destructivelyAddElementToEndOfArray(array,element){
     array.push(element)
     
     return array
